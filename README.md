@@ -32,7 +32,7 @@ Before starting , you would require some of the following stuff
 ## 📚 Steps 
 1. Clone the repo
 ```bash 
-git clone <repo url>
+git clone <https://github.com/NICK-FURY-6023/muzox-bot-clone.git>
 ```
 3. Navigate to the folder 
 2. Open cmd in the following folder created & run
