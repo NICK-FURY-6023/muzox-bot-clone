@@ -25,7 +25,7 @@
     "@prisma/client": "^5.5.2",
     "@top-gg/sdk": "^3.1.5",
     "canvas": "^2.11.2",
-    "chalk": "^5.2.0",
+    "chalk": "^5.3.0",
     "colors": "^1.4.0",
     "crypto": "^1.0.1",
     "discord-hybrid-sharding": "github:meister03/discord-hybrid-sharding",
