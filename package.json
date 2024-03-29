@@ -34,7 +34,7 @@
     "fs": "^0.0.1-security",
     "Logger": "^0.0.0",
     "mongoose": "^7.6.8",
-    "node-superfetch": "^0.3.3",
+    "node-superfetch": "^0.3.4",
     "os-utils": "^0.0.14",
     "pretty-ms": "^8.0.0",
     "shoukaku": "github:Deivu/Shoukaku",
