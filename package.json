@@ -39,7 +39,7 @@
     "pretty-ms": "^9.0.0",
     "shoukaku": "github:Deivu/Shoukaku",
     "typescript": "^5.4.3",
-    "ws": "^8.13.0"
+    "ws": "^8.16.0"
   }
 }
 
