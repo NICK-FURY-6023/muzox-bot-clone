@@ -16,7 +16,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.12.11",
-    "nodemon": "^3.1.0",
+    "nodemon": "^3.1.4",
     "prisma": "^5.13.0",
     "rimraf": "^5.0.7",
     "ts-node": "^10.9.2"
