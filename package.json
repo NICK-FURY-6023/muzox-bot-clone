@@ -17,7 +17,7 @@
   "devDependencies": {
     "@types/node": "^20.14.11",
     "nodemon": "^3.1.0",
-    "prisma": "^5.13.0",
+    "prisma": "^5.17.0",
     "rimraf": "^5.0.7",
     "ts-node": "^10.9.2"
   },
