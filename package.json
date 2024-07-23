@@ -38,7 +38,7 @@
     "os-utils": "^0.0.14",
     "pretty-ms": "^9.0.0",
     "shoukaku": "github:Deivu/Shoukaku",
-    "typescript": "^5.4.5",
+    "typescript": "^5.5.4",
     "ws": "^8.17.0"
   }
 }
