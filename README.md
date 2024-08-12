@@ -2,7 +2,7 @@
 
 
 
-A Discord Music bot project broughtto  
+A Discord Music bot project for everyone can use it 
 
 ## Tech Stacks Information 
 
