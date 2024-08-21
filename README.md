@@ -2,7 +2,7 @@
 
 
 
-A Discord Music bot project for everyone can use it 
+**A Discord Music bot project for everyone can use it**
 
 ## Tech Stacks Information 
 
@@ -25,7 +25,7 @@ A Discord Music bot project for everyone can use it
 
 Before starting , you would require some of the following stuff 
 
-- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) [Install from here!](https://nodejs.org/en/download/)
+- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) [Install from here!](https://nodejs.org/en/download/) you 
 - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) [Download Here](https://www.mongodb.com/try/download/community)
 - ![Lavalink](https://img.shields.io/badge/Lavalink-7289DA?style=for-the-badge&logo=fire&logoColor=white) [install from here](https://github.com/freyacodes/Lavalink)
 
