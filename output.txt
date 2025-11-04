@@ -1,22 +1,5 @@
 [
   {
-    "encoded": "QAAA9AMAKFNvbGFyIFNhaWxlciAtIEZyb20gIlRST046IExlZ2FjeSIvU2NvcmUACURhZnQgUHVuawAAAAAAAnlIABYwSmMyU2ZJSHY2M0pOc1VacHVuaDU0AAEANWh0dHBzOi8vb3Blbi5zcG90aWZ5LmNvbS90cmFjay8wSmMyU2ZJSHY2M0pOc1VacHVuaDU0AAAAB3Nwb3RpZnkBAAxVU1dEMTEwNTQ4OTABAEBodHRwczovL2kuc2Nkbi5jby9pbWFnZS9hYjY3NjE2ZDAwMDBiMjczNjY5MTlhY2I5Mzk1MDMzMzk2MjQ2N2Y4AAAAAAAAAAA=",
-    "info": {
-      "identifier": "0Jc2SfIHv63JNsUZpunh54",
-      "isSeekable": true,
-      "author": "Daft Punk",
-      "length": 162120,
-      "isStream": false,
-      "position": 0,
-      "title": "Solar Sailer - From \"TRON: Legacy\"/Score",
-      "uri": "https://open.spotify.com/track/0Jc2SfIHv63JNsUZpunh54",
-      "sourceName": "spotify",
-      "artworkUrl": null,
-      "isrc": null
-    },
-    "pluginInfo": {}
-  },
-  {
     "encoded": "QAAA4AMAFFBhdGllbmNlIElzIEEgVmlydHVlAAlDbGVtIExlZWsAAAAAAAHRFwAWMktKa0taNnUzUVJtOVhwdTVJMkNQQgABADVodHRwczovL29wZW4uc3BvdGlmeS5jb20vdHJhY2svMktKa0taNnUzUVJtOVhwdTVJMkNQQgAAAAdzcG90aWZ5AQAMU0VZT0sxMzE3OTE0AQBAaHR0cHM6Ly9pLnNjZG4uY28vaW1hZ2UvYWI2NzYxNmQwMDAwYjI3MzNmYTFlYTM3NWE3NmQ2MGQ3OTc3ZWIwZQAAAAAAAAAA",
     "info": {
       "identifier": "2KJkKZ6u3QRm9Xpu5I2CPB",
